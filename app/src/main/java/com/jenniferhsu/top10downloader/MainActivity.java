@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
         xmlTextView = (TextView) findViewById(R.id.xmlTextView);
 
         // add some change 1
+        // add some change 2
     }
 
     private class DownloadData extends AsyncTask<String, Void, String>{
