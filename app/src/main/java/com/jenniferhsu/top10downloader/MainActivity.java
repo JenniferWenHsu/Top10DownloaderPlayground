@@ -34,6 +34,8 @@ public class MainActivity extends AppCompatActivity {
         // add some change 3
         // add some change 4
         // add some change 5
+        // add some change 6
+        // add some change 7
     }
 
     private class DownloadData extends AsyncTask<String, Void, String>{
